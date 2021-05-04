@@ -23,12 +23,18 @@ In our opinion, our project should be completed in 7-8 weeks. And we are going t
     
 # Budget
 Since we don't have much experience in this matter, we decided to ask a person who knows a little more. He said that we first need to purchase a domain and hosting, thanks to which our site can go to the global server and we will have to pay 10.000-20.000 tenge annually for them. After all this, we figured that we needed a budget of 200,000 tenge.
+
 # Team information
 There are three of us in the team and we divided our roles as follows: we agreed that I would be engaged in the front-end because I love working on design and have some good ideas about this. And also I will plan the weekly progress of our site and what parts will need to be developed. And Abilkayyr and Sultanbek will work on the backend, since they themselves insisted on this and already have experience working with each other on sites. And they also have special blanks. We want to take the Wheels application as the basis of the website and try to improve everything.
+
 # Communication strategy
 We plan to hold online meetings every 3-4 days in order to share new ideas with each other (of course, if we have them), conduct a brainstorm and talk about new features of the site. But it goes without saying that any of our team can start an unscheduled meeting if they have a new idea or information for improvement.
+
 # Project methodology
 To be honest, we do not yet know which software process model we will use. We will read and analyze and try to understand and choose the right model for us.
 
 # Milestone Week 1
 In the first week, we got together and started discussing the design of our site. Thanks to our solidarity, we quickly found options for design, we looked at many sites before starting our own. And for us, the site kolesa.kz was a good example. first, we created our navbar, there are our functions such as advertising, registration, etc. After that, we wanted to add a carousel that will show ads for different brands. The next step was the beautiful inscription of our website, which included various shades of colors. If you move the mouse wheel down, you can see our list of ads. But at the moment we have not added any pictures of the cars. and the final part included sites where visitors can see our site on various social networks.
+
+# Milestone Week 2
+In the second week, we gathered with our group and thought about the design of the site. We designed the website of our project in different ways. We paid attention to the beauty of our site and decorated it. We put a favicon on the site. We have added color to the background of our site. We made the inscriptions beautiful. We placed divs. We put cars on our site and wrote information about them. For the convenience of customers, we have made the site clear and easy to order. We named each section. We made it so that when customers see the car, the information about it is immediately visible.
