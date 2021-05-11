@@ -38,3 +38,28 @@ In the first week, we got together and started discussing the design of our site
 
 # Milestone Week 2
 In the second week, we gathered with our group and thought about the design of the site. We designed the website of our project in different ways. We paid attention to the beauty of our site and decorated it. We put a favicon on the site. We have added color to the background of our site. We made the inscriptions beautiful. We placed divs. We put cars on our site and wrote information about them. For the convenience of customers, we have made the site clear and easy to order. We named each section. We made it so that when customers see the car, the information about it is immediately visible.
+
+# Milestone Week 3
+We assume that we need to fix one picture where our car for sale is located in order to display on another page and show everything about this car, for example, how much does it cost, what volume of the engine, and so on. home page. Next, we think that we need to fantasize with flowers, we need a color that opens the site's auction and will pull people to visit this site. a very good navbar, you need to use the boot site and choose a suitable navbar. In the navbar, we will rather include the name of our site and the contacts section, which, when clicked, will transfer to another page.
+
+# Milestone Week 4
+In 4 weeks we added sections to the navbar, and it turned out that we have registration contacts, sales and advertising sheets. In the coming weeks, we will try to change and improve. When you click the contacts button, using javascript on the same site, a small window appears where our contacts will be written, where people can offer their ideas or say our minuses, we will only be happy about this. using javascript it will take you down, in a matter of milliseconds, where you can register to add your ads. The same function works in other links. We can say the same about the advertisement. If your mouse approaches the advertisement sheet, you can see a beautiful execution of the javascript, where when the mouse approaches the photo, the main data about this car is displayed with a shadow background, such as from which city and how much it costs and what year. This allows buyers to quickly examine the data if they want to buy.
+
+
+# Milestone Week 5
+In week 5 we finished our design and now our main task is to work with the database. Since we had little experience with this, we began to actively watch video tutorials and learn how to use and connect with the site. Most likely, we will change our decision and change node.js to Php. We worked with Pgadmin, and we think that it is very similar to him. In addition, we would also like to use mail or the cloud where the data will be stored. But this way will help us only in the beginning, where the site will not have many sellers and buyers. But if there are a lot of people, then we will need a large data keeper, php.
+
+# Milestone Week 6
+This week we are working with our group to develop our site using javascript. We will make it so that you can register and enter our site. This is for the safety and proper use of our site. We use node.js to link to the registration and our site. This will allow you to access our site immediately after registration. Then the client continues to trade. He also leaves his data to communicate with the administrator. Therefore, shopping will be convenient and profitable. And the client can leave a comment. This will help to further improve our site. Thus, our site will be the most convenient way for people to buy.
+
+# Milestone Week 7
+This week we will review what we did in the sixth week. We will register and visit the site. After visiting the site, we need to make sure that everything we do is working properly. To do this, we try to order a car as a customer. This way we can check the work of the site. If we notice some mistakes, we correct them immediately. Once we are sure everything is right, we make a plan of what to do in 8 weeks. 
+We divide the work among ourselves. Here are some suggestions on how to improve your site.
+
+# Milestone Week 8
+This week we are going to work in the frontend so that sign it to public place, for this we will have to pay for our site to go online for full operation. And in the backend we are going to test our site to find bugs and try to fix them as quickly as possible. Check the connection again.  to the database and improve the design if anyone has new ideas for this.  Start already preparing for the display of this site.
+
+# Milestone Week 9
+For this week we have planned to revise all the code again and prepare the site for display.  Add a few more new cars and find what else you can hook buyers with so that later we are going to show it to our friends, so that they test it and give reviews.  After that, we would find out the adventages and disadvantages of our site and work on further development.
+# Milestone Week 10
+Since this week we have a lot of test work, we will hardly be able to devote much time to the site and will prepare for them.
