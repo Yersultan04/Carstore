@@ -58,9 +58,11 @@ This week we will review what we did in the sixth week. We will register and vis
 We divide the work among ourselves. Here are some suggestions on how to improve your site.
 
 # Milestone Week 8
-This week we are going to work in the frontend so that sign it to public place, for this we will have to pay for our site to go online for full operation. And in the backend we are going to test our site to find bugs and try to fix them as quickly as possible. Check the connection again.  to the database and improve the design if anyone has new ideas for this.  Start already preparing for the display of this site.
+This week we are going to work in the frontend so that sign it to public place, for this we will have to pay for our site to go online for full operation. And in the backend we are going to test our site to find bugs and try to fix them as quickly as possible. Check the connection again to the database and improve the design if anyone has new ideas for this.  Start already preparing for the display of this site. But before that, do a little more work on the design, since we have not yet decided on the main solutions for the site.
 
 # Milestone Week 9
-For this week we have planned to revise all the code again and prepare the site for display.  Add a few more new cars and find what else you can hook buyers with so that later we are going to show it to our friends, so that they test it and give reviews.  After that, we would find out the adventages and disadvantages of our site and work on further development.
+For this week we have planned to revise all the code again and prepare the site for display.  Add a few more new cars and find what else you can hook buyers with so that later we are going to show it to our friends, so that they test it and give reviews.  After that, we would find out the adventages and disadvantages of our site and work on further development.We are also going to add new things in order to increase the functionality of our site and try to make it more popular among online consumers.
+
 # Milestone Week 10
-Since this week we have a lot of test work, we will hardly be able to devote much time to the site and will prepare for them.
+
+Since this week we have a lot of test work, we will hardly be able to devote much time to the site and will prepare for them.But we will still try to improve the site wherever possible and will try to find investors and present it to them for further collaboration.But we will still try to improve the site wherever possible and will try to find investors and present it to them for further collaboration.  We are also going to save the code so that we can then use it to create new sites for different directions and also find investors for them.
