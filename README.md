@@ -19,6 +19,7 @@ And if we take the sites of other countries, then in this case we did not find t
  
 # Timetable
 In our opinion, our project should be completed in 7-8 weeks. And we are going to finish the frontend in 4-5 weeks, and the backend in the rest of the weeks. This is if we work on a project 7-12 hours a week. 
+![Timetable](https://github.com/Yersultan04/Carstore/blob/main/Timetable.png)
 
     
 # Budget
